@@ -131,7 +131,7 @@ Future versions of this project may compare multiple algorithms such as:
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/Disease-Prediction-System.git
+git clone https:/Adityaparab25a/github.com//Disease-Prediction-System.git
 ```
 
 2. Navigate to the project directory.
